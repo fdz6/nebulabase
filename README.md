@@ -1,3 +1,5 @@
+DISCLAIMER: ROBLOX STUDIO BLACKLISTS HTTP REQUESTS FOR FREE DATABASE HOSTERS, SO IT WILL ONLY WORK IN THE ROBLOX PLAYER.
+
 ## License
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute it, as long as you provide appropriate credit.
